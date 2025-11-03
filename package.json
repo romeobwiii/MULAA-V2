@@ -1,0 +1,17 @@
+{
+  "name": "mulaa-ai",
+  "version": "1.0.0",
+  "description": "MULAA AI — a mythic, poetic assistant built by Amantle Mpaekae",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["AI", "OpenAI", "MULAA", "mythic", "chatbot"],
+  "author": "Amantle Mpaekae",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
