@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Secrets
+.env
+config.js
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
